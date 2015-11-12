@@ -1,7 +1,7 @@
 {
   "manifest_version" : 2,
   "name" : "building-personal-property",
-  "version" : "0.0.1",
+  "version" : "0.0.2",
   "description" : "Warn user when typing \"Building personal property\"",
   "content_scripts": [
     {
